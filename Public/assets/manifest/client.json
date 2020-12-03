@@ -2,7 +2,7 @@
   "publicPath": "/",
   "all": [
     "assets/css/0.styles.a6f4f910.css",
-    "assets/js/app.5f9ef1be.js",
+    "assets/js/app.68d49ba2.js",
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.c19c535b.js",
     "assets/js/page--src-pages-about-vue.14045a53.js",
     "assets/js/page--src-pages-australasia-australiageneral-vue.43f228fe.js",
@@ -19,7 +19,7 @@
     "assets/js/page--src-pages-europe-russiangeneral-vue.bd8c08d5.js",
     "assets/js/page--src-pages-europe-ukrainegeneral-vue.9563a558.js",
     "assets/js/page--src-pages-europe-vue.f29c2eb9.js",
-    "assets/js/page--src-pages-general-vue.0454f2b7.js",
+    "assets/js/page--src-pages-general-vue.2e71ad20.js",
     "assets/js/page--src-pages-index-vue.8d670520.js",
     "assets/js/page--src-pages-jewish-australia-vue.00d039a4.js",
     "assets/js/page--src-pages-jewish-austria-vue.171169e6.js",
@@ -38,7 +38,7 @@
   ],
   "initial": [
     "assets/css/0.styles.a6f4f910.css",
-    "assets/js/app.5f9ef1be.js"
+    "assets/js/app.68d49ba2.js"
   ],
   "async": [
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.c19c535b.js",
@@ -57,7 +57,7 @@
     "assets/js/page--src-pages-europe-russiangeneral-vue.bd8c08d5.js",
     "assets/js/page--src-pages-europe-ukrainegeneral-vue.9563a558.js",
     "assets/js/page--src-pages-europe-vue.f29c2eb9.js",
-    "assets/js/page--src-pages-general-vue.0454f2b7.js",
+    "assets/js/page--src-pages-general-vue.2e71ad20.js",
     "assets/js/page--src-pages-index-vue.8d670520.js",
     "assets/js/page--src-pages-jewish-australia-vue.00d039a4.js",
     "assets/js/page--src-pages-jewish-austria-vue.171169e6.js",

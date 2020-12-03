@@ -1,85 +1,83 @@
 <template>
   <Layout>
     <section class="px-32 py-14">
-    <div id="background" class="container mx-auto">
-      <h1 class="ml-8 mt-3 text-4xl text-teal-900">
-        General Family History Resourses
-      </h1>
+      <div id="background" class="container mx-auto">
+        <h1 class="ml-8 mt-3 text-4xl text-teal-900">
+          General Family History Resourses
+        </h1>
 
-      <div class="grid sm:flex">
-        <ancestry />
-        <graves />
-        <search />
-      </div>
+        <div class="grid sm:flex">
+          <ancestry />
+          <graves />
+          <search />
+        </div>
 
-      <div class="grid sm:flex">
-        <grave />
-        <past />
-        <geneanet />
-      </div>
+        <div class="grid sm:flex">
+          <grave />
+          <past />
+          <geneanet />
+        </div>
 
-       <div class="grid sm:flex">
-        <heritage />
-      </div>
-    
+        <div class="grid sm:flex">
+          <heritage />
+        </div>
 
-      <br />
-      <div class="border-b-4 border-gray-200"></div>
-      <br />
+        <br />
+        <div class="border-b-4 border-gray-200"></div>
+        <br />
 
-      <h1 class="ml-8 mt-3 text-4xl text-teal-900">
-        General Jewish Family History Resourses
-      </h1>
+        <h1 class="ml-8 mt-3 text-4xl text-teal-900">
+          General Jewish Family History Resourses
+        </h1>
 
-      <div class="grid sm:flex">
-        <cemeteries />
-        <blog />
-        <gen />
-      </div>
+        <div class="grid sm:flex">
+          <cemeteries />
+          <blog />
+          <gen />
+        </div>
 
-      <div class="grid sm:flex">
-        <roots />
-      </div>
+        <div class="grid sm:flex">
+          <roots />
+        </div>
 
-      <br />
-      <div class="border-b-4 border-gray-200"></div>
-      <br />
+        <br />
+        <div class="border-b-4 border-gray-200"></div>
+        <br />
 
-      <h1 class="ml-8 mt-3 text-4xl text-teal-900">
-        Resourses
-      </h1>
+        <h1 class="ml-8 mt-3 text-4xl text-teal-900">
+          Resourses
+        </h1>
 
-      <div class="grid sm:flex">
-        <ahnenblatt />
-        <cyrillic />
-        <print />
-      </div>
-      <div class="grid sm:flex">
-        <hebrew />
-        <shtetl />
-        <transkribus />
-      </div>
+        <div class="grid sm:flex">
+          <ahnenblatt />
+          <cyrillic />
+          <print />
+        </div>
+        <div class="grid sm:flex">
+          <hebrew />
+          <shtetl />
+          <transkribus />
+        </div>
 
+        <br />
 
-      <br />
-     
         <dropdown />
-        
-      <br />
-      <p>
-        Add
-        <g-link
-          class="text-red-600 hover:text-yellow-600"
-          to="http://bit.ly/2SxWdgt"
-          target="_blank"
-        >
-          google translate
-        </g-link>
-        to your browser extensions, to view foreign language web sites.
-      </p>
 
-      <br />
-    </div>
+        <br />
+        <p>
+          Add
+          <g-link
+            class="text-red-600 hover:text-yellow-600"
+            to="http://bit.ly/2SxWdgt"
+            target="_blank"
+          >
+            google translate
+          </g-link>
+          to your browser extensions, to view foreign language web sites.
+        </p>
+
+        <br />
+      </div>
     </section>
   </Layout>
 </template>
