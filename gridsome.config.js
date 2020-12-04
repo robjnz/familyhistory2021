@@ -25,6 +25,18 @@ module.exports = {
         enabled: true,
         debug: true
       }
-    }
-  ]
-}
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        typeName: 'BlogPost',
+        path: './blog/**/*.md',
+      },
+    },
+  ],
+  templates: {
+    BlogPost: '/blog/:title',
+  },
+};
+  
+

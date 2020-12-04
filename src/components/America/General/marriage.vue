@@ -11,7 +11,7 @@
         alt="image of of a database"
       />
       <br />
-      <p>Search the databases <br />for New york <br />marriages records .</p>
+      <p>Search the databases <br />for New york <br />marriages records<br /> 1950 to 2017 .</p>
       <br /><br />
       <g-link
         class="text-white hover:text-yellow-500"
