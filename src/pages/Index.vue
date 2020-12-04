@@ -1,11 +1,12 @@
 <template>
   <Layout>
-    <section id="container-centre" class="column centre flex-1 px-32 py-14">
+    <section id="container-centre" class="column centre flex-1 px-32 py-14 overflow-auto">
       
           <div class="p-6">
       <h1 class="page-title">Welcome to Family History</h1>
       <div class="content">
-        <p >Information on what records are available, and where to find them.</p>
+        <p class="text-gray-800 text-3xl">Information on what records are available, and where to find them.</p>
+        <br />
 
        
        
@@ -38,13 +39,14 @@
        
         </div>
           </div>
-     
+   
     </section>
   </Layout>
 </template>
 
 <script>
 export default {
+   
   metaInfo: {
     title: "Home",
   },

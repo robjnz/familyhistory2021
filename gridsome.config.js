@@ -18,5 +18,13 @@ module.exports = {
         shouldTimeTravel: false
       }
     },
+    {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-PJS56TL',
+        enabled: true,
+        debug: true
+      }
+    }
   ]
 }

@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <section class="px-32 py-14">
+    <section class="px-32 py-14 overflow-auto">
       <div id="background" class="container mx-auto">
         <h1 class="ml-8 mt-3 text-4xl text-teal-900">
           General Family History Resourses

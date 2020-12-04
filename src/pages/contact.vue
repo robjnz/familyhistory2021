@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <section id="container-centre" class="column centre flex-1 px-32 py-14">
+    <section id="container-centre" class="column centre flex-1 px-32 py-14 overflow-auto">
       <h1 class="page-title">Contact Us</h1>
       <div class="content">
         <p>Tell us how great we are in the form below.</p>

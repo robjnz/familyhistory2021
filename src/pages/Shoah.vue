@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <section class="px-32 py-14">
+    <section class="px-32 py-14 overflow-auto">
     <div id="background" class="container m-auto">
       <span class="flex content-start">
         <h1 class="mt-3 text-4xl text-teal-900">

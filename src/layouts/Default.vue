@@ -16,101 +16,7 @@ query {
 </static-query>
 
 <style>
-body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
-  line-height: 1.5;
-}
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
-}
-
-.nav__link {
-  margin-left: 20px;
-}
-
-.layout {
-  max-width    : auto;
-  margin       : 0 auto;
-  padding-left : 2px;
-  padding-right: 2px;
-  background   : #b2f5ea;
-  color        : black;
-  font-size    : 15;
-
-}
-
-.work-card {
-            box-shadow   : 0px 0px 20px rgba(0, 0, 0.1);
-            padding      : 1rem;
-            border-radius: 0.2rem;
-            color        : #44337a;
-            font-size    : medium;
-            font-family: Roberto;
-}
-#work-card {
-  box-shadow: 0px 0px 20px rgba(0, 0, 0.1);
-  background: #38b2ac;
-  font-family: roberto;
-  color: #1a202c;
-  font-size: 1.25rem;
-}
-
-
-#home-page {
-           
-            padding      : 1rem;
-            color        : black;
-            font-size    : medium;
-            
-}
-#background{
-    background: #b2f5ea;
-}
-.postcode{
-color     : #68d391;
-
-}
-
-.event{
-color     : #4fd1c5;
-
-}
-
-.one{
-    color: #e53e3e;
-    
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    @apply font-bold leading-tight mt-0 mb-6 text-purple-900;
-}
-
-.page-title {
-	@apply text-5xl;
-}
-
-
-.content {
-
-	p {
-		@apply mb-8;
-
-		&:first-child {
-			@apply border-b-4 border-gray-200 text-2xl pb-10 mb-10 font-light leading-snug text-gray-800;
-
-			@screen md {
-                @apply text-3xl;
-            }
-		}
-    }
-}
 
 
 </style>
@@ -122,10 +28,7 @@ import TheFooter from '@/components/TheFooter/TheFooter'
 
 
 export default {
-   script: [
-
-        {src: 'https://kit.fontawesome.com/e3c70d4fc5.js'}
-      ],
+  
   components: {
     TheHeader,
     TheFooter,

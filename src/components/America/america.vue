@@ -23,7 +23,7 @@
       <li>Genealogy Resourses:<br />
       <g-link
           class  = "text-white hover:text-yellow-500"
-          to     = "/Northamerica/americageneral">
+          to     = "/Northamerica/americangeneral">
           General
         </g-link>
 

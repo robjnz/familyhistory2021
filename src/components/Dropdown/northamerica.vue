@@ -25,13 +25,13 @@
     
 
       <li class="rounded-sm px-3 py-1 hover:bg-gray-100">
-        <g-link class="text-green-700 hover:text-yellow-600" to="/Northamerica/canadageneral"
+        <g-link class="text-gray-900 hover:text-yellow-600" to="/Northamerica/canadageneral"
           >Canada</g-link
         >
       </li>
 
         <li class="rounded-sm px-3 py-1 hover:bg-gray-100">
-        <g-link class="text-gray-900 hover:text-yellow-600" to="/Northamerica/usageneral"
+        <g-link class="text-gray-900 hover:text-yellow-600" to="/Northamerica/americangeneral"
           >USA</g-link
         >
       </li>
