@@ -5,9 +5,10 @@
       class="column centre flex-1 px-32 py-14 overflow-auto"
     >
       <h1 class="page-title text-center">Blog</h1>
-      
 
       <BlogPostList :posts="$page.posts.edges" />
+
+       
     </section>
   </Layout>
 </template>
@@ -33,6 +34,7 @@ query {
         id
         title
         date (format: "MMMM D, YYYY")
+        excerpt
         path
       }
     }
