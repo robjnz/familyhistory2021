@@ -2,12 +2,12 @@
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
       <h1 class="text-2xl text-white">
-           Cyrillic Print & Cursive  </h1>
+           Cyrillic Print & Cursive</h1>
 
      
         <g-image 
           class = "h-32 w-full object-fill"
-          src   = "@/images/europe/cyrillic.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1607250802/cyrillic_dznodj.jpg"
           alt = "cyrillic alphabet photo"
       />
        <br />

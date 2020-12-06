@@ -7,7 +7,7 @@
      
         <g-image 
           class = "h-32 w-full object-fill"
-          src   = "@/images/europe/cyrillic.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1607250802/cyrillic_dznodj.jpg"
           alt = "cyrillic alphabet photo"
       />
        <br />
