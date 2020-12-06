@@ -19,8 +19,21 @@
 
 <script>
 export default {
-  props: ["posts"],
-};
+ 
+
+
+metaInfo: {
+    title: "blog posts",
+    meta: [
+      {
+        name: "description",
+        content:
+          "Blog posts",
+      },
+    ],
+  },
+   props: ["posts"],
+}
 </script>
 
 <style>

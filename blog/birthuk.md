@@ -1,14 +1,14 @@
 ---
-title: How to a find a record of birth's on line in England and Wales
+title: How to a find a record of births on line in England and Wales
 excerpt:
 date: 2020-12-05
 ---
 
 ## Searching For records of Birth in England and Wales
 
-Their many websites that are free to use for famaly history research.
+Their are many websites that are free to use for family history research.
 
-The website I use is [<span style="color:blue">freebmd</span>](https://www.freebmd.org.uk).
+The website I use is to search for records of births is [<span style="color:blue">freebmd</span>](https://www.freebmd.org.uk).
 
 ![birthuk1](https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_400,w_600/v1607187929/birthuk1_p3npnb.png)
 
@@ -31,7 +31,7 @@ Start search for the person you are looking for:
 
 ### The Results
 
-![bmd results](https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_400,w_600/v1607187624/birthuk3_predf6.png)
+![bmd results](https://res.cloudinary.com/dzhbfdfa5/image/upload/v1607246769/bmdres_hevkdz.png)
 
 - Surname
 

@@ -20,7 +20,7 @@ article > header {
   text-align: center;
 }
 
-.content {
+.content1 {
   margin-top: 48px;
   margin-left: 200px;
   color: black;
@@ -41,6 +41,27 @@ article > header {
   text-align: left;
 }
 </style>
+
+<script>
+
+export default {
+  metaInfo: {
+    title: "Posts",
+    meta: [
+      {
+        name: "description",
+        content:
+          "Blog posts",
+      },
+    ],
+  },
+  components: {
+    
+    
+  },
+};
+</script>
+
 
 <page-query>
 query Post ($path: String!) {

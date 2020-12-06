@@ -1,11 +1,12 @@
 <template>
   <Layout>
-    <section id="container-centre" class="column centre flex-1 px-32 py-14 overflow-auto">
+    <section id="container-centre" class="column centre flex-1 px-32 py-14 overflow-auto" >
       
           <div class="p-6">
       <h1 class="page-title">Welcome to Family History</h1>
       <div class="content">
-        <p class="text-gray-800 text-3xl">Information on what records are available, and where to find them.</p>
+        <p class="text-gray-800 text-3xl">Researching your family history, what information is out there and where to find them.</p>
+        
         <br />
 
        
@@ -49,6 +50,16 @@ export default {
    
   metaInfo: {
     title: "Home",
+      meta: [
+      {
+        name: "description",
+        content: "Researching your family history, what information is out there and where to find them.",
+      },
+    ],
+  },
+  components: {
+   
   },
 };
+
 </script>

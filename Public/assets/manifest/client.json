@@ -1,14 +1,14 @@
 {
   "publicPath": "/",
   "all": [
-    "assets/css/0.styles.5be77b52.css",
-    "assets/js/app.645fc7c8.js",
+    "assets/css/0.styles.f977538c.css",
+    "assets/js/app.90d3c8bc.js",
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.a72bffee.js",
     "assets/js/page--src-pages-about-vue.5c3e288b.js",
     "assets/js/page--src-pages-australasia-australiageneral-vue.aad4928b.js",
     "assets/js/page--src-pages-australasia-newzealandgeneral-vue.f24296c1.js",
     "assets/js/page--src-pages-australasia-vue.6bf56177.js",
-    "assets/js/page--src-pages-blog-vue.d2a6d502.js",
+    "assets/js/page--src-pages-blog-vue.91cafe2d.js",
     "assets/js/page--src-pages-contact-vue.bfd7f024.js",
     "assets/js/page--src-pages-europe-austriangeneral-vue.42ac3eed.js",
     "assets/js/page--src-pages-europe-belarusgeneral-vue.8a303c91.js",
@@ -21,7 +21,7 @@
     "assets/js/page--src-pages-europe-ukrainegeneral-vue.9ff0534d.js",
     "assets/js/page--src-pages-europe-vue.986a3824.js",
     "assets/js/page--src-pages-general-vue.0a8f44eb.js",
-    "assets/js/page--src-pages-index-vue.1cea4efc.js",
+    "assets/js/page--src-pages-index-vue.c41f8ab9.js",
     "assets/js/page--src-pages-jewish-australia-vue.cf7d673c.js",
     "assets/js/page--src-pages-jewish-austria-vue.a8e0bfde.js",
     "assets/js/page--src-pages-jewish-belarus-vue.2ebe9eab.js",
@@ -37,11 +37,11 @@
     "assets/js/page--src-pages-northamerica-canadageneral-vue.e21ddf42.js",
     "assets/js/page--src-pages-northamerica-vue.f3c0d961.js",
     "assets/js/page--src-pages-shoah-vue.aa685b89.js",
-    "assets/js/page--src-templates-blog-post-vue.062e459c.js"
+    "assets/js/page--src-templates-blog-post-vue.0bb0a115.js"
   ],
   "initial": [
-    "assets/css/0.styles.5be77b52.css",
-    "assets/js/app.645fc7c8.js"
+    "assets/css/0.styles.f977538c.css",
+    "assets/js/app.90d3c8bc.js"
   ],
   "async": [
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.a72bffee.js",
@@ -49,7 +49,7 @@
     "assets/js/page--src-pages-australasia-australiageneral-vue.aad4928b.js",
     "assets/js/page--src-pages-australasia-newzealandgeneral-vue.f24296c1.js",
     "assets/js/page--src-pages-australasia-vue.6bf56177.js",
-    "assets/js/page--src-pages-blog-vue.d2a6d502.js",
+    "assets/js/page--src-pages-blog-vue.91cafe2d.js",
     "assets/js/page--src-pages-contact-vue.bfd7f024.js",
     "assets/js/page--src-pages-europe-austriangeneral-vue.42ac3eed.js",
     "assets/js/page--src-pages-europe-belarusgeneral-vue.8a303c91.js",
@@ -62,7 +62,7 @@
     "assets/js/page--src-pages-europe-ukrainegeneral-vue.9ff0534d.js",
     "assets/js/page--src-pages-europe-vue.986a3824.js",
     "assets/js/page--src-pages-general-vue.0a8f44eb.js",
-    "assets/js/page--src-pages-index-vue.1cea4efc.js",
+    "assets/js/page--src-pages-index-vue.c41f8ab9.js",
     "assets/js/page--src-pages-jewish-australia-vue.cf7d673c.js",
     "assets/js/page--src-pages-jewish-austria-vue.a8e0bfde.js",
     "assets/js/page--src-pages-jewish-belarus-vue.2ebe9eab.js",
@@ -78,7 +78,7 @@
     "assets/js/page--src-pages-northamerica-canadageneral-vue.e21ddf42.js",
     "assets/js/page--src-pages-northamerica-vue.f3c0d961.js",
     "assets/js/page--src-pages-shoah-vue.aa685b89.js",
-    "assets/js/page--src-templates-blog-post-vue.062e459c.js"
+    "assets/js/page--src-templates-blog-post-vue.0bb0a115.js"
   ],
   "modules": {
     "11182626": [
