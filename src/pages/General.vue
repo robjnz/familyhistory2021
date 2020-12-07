@@ -2,7 +2,7 @@
   <Layout>
     <section class="px-32 py-14 overflow-auto">
       <div id="background" class="container mx-auto">
-        <h1 class="ml-8 mt-3 text-4xl text-teal-900">
+        <h1 class="ml-8 mt-3 sub-title">
           General Family History Resourses
         </h1>
 
@@ -26,7 +26,7 @@
         <div class="border-b-4 border-gray-200"></div>
         <br />
 
-        <h1 class="ml-8 mt-3 text-4xl text-teal-900">
+        <h1 class="ml-8 mt-3 sub-title">
           General Jewish Family History Resourses
         </h1>
 
@@ -44,7 +44,7 @@
         <div class="border-b-4 border-gray-200"></div>
         <br />
 
-        <h1 class="ml-8 mt-3 text-4xl text-teal-900">
+        <h1 class="ml-8 mt-3 sub-title">
           Resourses
         </h1>
 
@@ -62,19 +62,7 @@
         <br />
 
         <dropdown />
-
-        <br />
-        <p>
-          Add
-          <g-link
-            class="text-red-600 hover:text-yellow-600"
-            to="http://bit.ly/2SxWdgt"
-            target="_blank"
-          >
-            google translate
-          </g-link>
-          to your browser extensions, to view foreign language web sites.
-        </p>
+        <translate />
 
         <br />
       </div>
@@ -102,6 +90,8 @@ import transkribus from "@/components/General/transkribus";
 import heritage from "@/components/General/heritage";
 
 import dropdown from "@/components/Dropdown/dropdown";
+import translate from "@/components/Dropdown/translate";
+
 
 export default {
   metaInfo: {
@@ -133,6 +123,7 @@ export default {
     transkribus,
     heritage,
     dropdown,
+    translate,
   },
 };
 </script>

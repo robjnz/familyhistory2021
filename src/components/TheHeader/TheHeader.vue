@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex items-center justify-between flex-wrap bg-teal-500 p-6">
+  <nav class="bg-teal-500 flex items-center justify-between flex-wrap p-6">
     <div class="flex items-center flex-shrink-0 text-white mr-6">
       
        <g-link to="/" aria-label="back to home"
@@ -9,7 +9,7 @@
           alt   = "logo family tree"
       /></g-link>
       <span class="font-semibold text-2xl tracking-tight"
-        ><g-link class="hover:text-red-500" to="/">Family History</g-link>
+        ><g-link class="text-white hover:text-purple-900" to="/">Family History</g-link>
       </span>
     </div>
     <div aria-label="menu" class="block lg:hidden">
@@ -32,39 +32,39 @@
 
           <g-link
           to    = "/"
-          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
         > Home
           
         </g-link>
           <g-link
           to    = "/general"
-          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
         > General
           
         </g-link>
 
          <g-link
           to    = "/australasia"
-          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
         > Australasia
           
         </g-link>
         <g-link
           to    = "/europe"
-          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
         > Europe
           
         </g-link>
         
          <g-link
           to    = "/northamerica"
-          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
         > North America
           
         </g-link>
       <g-link
           to    = "/shoah"
-          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
         > Shoah
           
         </g-link>
@@ -72,15 +72,15 @@
 
        <g-link
           to    = "/blog"
-          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
         > Blog
           
         </g-link>
 
          <g-link
           to    = "/contact"
-          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
-        > Contact
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
+        > 
           
         </g-link>
  

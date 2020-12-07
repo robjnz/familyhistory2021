@@ -78,8 +78,8 @@ body {
   
   }
   
-  .one{
-      color: #e53e3e;
+  .topone{
+      background: #38b2ac;
       
     }
   
@@ -89,6 +89,11 @@ body {
   
   .page-title {
       @apply text-5xl;
+  }
+
+
+  .sub-title{
+    @apply text-4xl
   }
   
   

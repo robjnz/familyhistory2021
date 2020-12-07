@@ -1,35 +1,32 @@
 <template>
   <Layout>
     <section class="px-32 py-14 overflow-auto">
-    <div id="background" class="container m-auto">
-      <h1 class="ml-8 mt-3 text-4xl text-teal-900">
-        <span class="text-teal-900">
-          <i class="fas fa-theater-masks"></i>
-        </span>
-        Family History Resourses For Europe
-      </h1>
+      <div id="background" class="container m-auto">
+        <h1 class="ml-8 mt-3 sub-title">
+          Family History Resourses For Europe
+        </h1>
 
+        <br />
+
+        <div class="grid sm:flex">
+          <austria /><!--Austria-->
+          <belarus /><!--Belarus-->
+          <belgium /><!--Belgium-->
+        </div>
+
+        <div class="grid sm:flex">
+          <french />
+          <ireland />
+          <netherlands />
+        </div>
+
+        <div class="grid sm:flex">
+          <russia />
+          <ukraine />
+          <british />
+        </div>
+      </div>
       <br />
-
-      <div class="grid sm:flex">
-        <austria /><!--Austria-->
-        <belarus /><!--Belarus-->
-        <belgium /><!--Belgium-->
-      </div>
-
-      <div class="grid sm:flex">
-        <french />
-        <ireland />
-        <netherlands />
-      </div>
-
-      <div class="grid sm:flex">
-        <russia />
-        <ukraine />
-        <british />
-      </div>
-    </div>
-    <br />
     </section>
   </Layout>
 </template>
