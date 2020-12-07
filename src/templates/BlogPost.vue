@@ -10,7 +10,7 @@
         </p>
       </header>
 
-      <main class="blog-card object-contain" v-html="$page.post.content"></main>
+      <main class="prose-sm blog-card overflow-auto" v-html="$page.post.content"></main>
     </article>
   </Layout>
 </template>

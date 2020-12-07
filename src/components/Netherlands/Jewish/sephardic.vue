@@ -7,7 +7,7 @@
      
         <g-image 
           class = "h-32 w-full object-fill"
-          src   = "@/images/europe/star-jewish.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1607356021/star-jewish_fcdw63.jpg"
           alt = "archive photo"
       />
        <br />

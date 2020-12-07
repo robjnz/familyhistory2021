@@ -7,7 +7,7 @@
      
         <g-image 
           class = "h-32 w-full object-fill"
-          src   = "@/images/europe/jewish-graves.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1607355658/jewish-graves_rvakmw.jpg"
           alt = "austria flag"
       />
        <br />
