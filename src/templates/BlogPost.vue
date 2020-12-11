@@ -2,7 +2,7 @@
   <Layout>
     <article>
       <header class="mt-6">
-        <h2>{{ $page.post.title }}</h2>
+        <h2 class="text-xl">{{ $page.post.title }}</h2>
         <p>Published on {{ $page.post.date }}</p>
 
         <p>
@@ -34,8 +34,8 @@ article > header {
   color: black;
   font-size: 1.5rem;
   font-family: Roberto;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 15%;
+  margin-right: 15%;
   margin-bottom: 10%;
   margin-top: 2%;
   text-align: left;

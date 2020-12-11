@@ -5,11 +5,11 @@
   >
    
     <div class="work-card mb-6" v-for="post in posts" :key="post.node.id">
-      <h4 class="text-red-900">{{ post.node.title }}</h4>
-      <p class="text-gray-900"> {{ post.node.excerpt }}</p>
+      <h4 class="text-red-900 text-2xl">{{ post.node.title }}</h4>
+      <p class="text-gray-900 text-xl"> {{ post.node.excerpt }}</p>
       <br />
-      <p class="text-gray-900">Published on {{ post.node.date }}</p>
-      <g-link class="text-blue-700" :to="post.node.path">Read article</g-link>
+      <p class="text-gray-900 text-lg">Published on {{ post.node.date }}</p>
+      <g-link class="text-blue-700 text-2xl" :to="post.node.path">Read article</g-link>
     </div>
    
    

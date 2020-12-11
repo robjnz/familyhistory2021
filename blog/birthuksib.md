@@ -1,5 +1,5 @@
 ---
-title: How to a find a record of births of siblings on line in England and Wales
+title: How to a find a record of births of siblings online in England and Wales
 excerpt:
 date: 2020-12-05
 ---
