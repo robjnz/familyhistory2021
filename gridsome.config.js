@@ -6,6 +6,13 @@
 
 module.exports = {
   siteName: 'Family History',
+  transformers: {
+    remark: {
+      externalLinksTarget: '_blank',
+      externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
+      anchorClassName: 'icon icon-link'
+    }
+  },
   plugins: [
 
     {
@@ -18,6 +25,18 @@ module.exports = {
         shouldTimeTravel: false
       }
     },
+    {
+      use: `gridsome-plugin-netlify-cms`,
+      options: {
+        publicPath: `/admin`
+      }
+    },
+    {
+      use: `gridsome-plugin-netlify-cms`,
+      options: {
+        plugins: [`netlify-cms-widget-youtube`]
+      }
+    } ,
     {
       use: 'gridsome-plugin-gtm',
       options: {
@@ -37,6 +56,7 @@ module.exports = {
   templates: {
     BlogPost: '/blog/:title',
   },
+  
 };
   
 
